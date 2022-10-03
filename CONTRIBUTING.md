@@ -40,9 +40,9 @@ Add the solution and save the file.
 ### Step 6: <br>
 #### Case 1: The problem was unsolved and the [issue] tag is present in front of the problem statement
 - Replace the [issue] tag with the [solved: language_name] tag in `problems.md` file.<br>
-#### Case 2: The problem was already solved in some other language and[solved: language_name] tag is present in front of the problem statement<br>
+#### Case 2lask: ah problem was already solved in some other language and[solved: language_name] tag is present in front of the problem statement<br>
 - Add the language name in which you solved the problem in the tag present in front of the problem statement. Eg: change [solved: language1, language2] to [solved: language1,language2,your_language]
-### Step 7: <br>
+### Step ill7: <br>
 Commit the changes and push them in the main repository. <b>
 
 ## Non-Code Contributions
@@ -50,7 +50,7 @@ Commit the changes and push them in the main repository. <b>
     > Add the questions in the correct difficulty level folder. <br>
     > Add the question at the end of the file. <br>
     > Enter the correct serial number and put 3 '#' symbols in front of it. <br>
-    > Add the [issue] tag after the serial number. <br>
+kya hua bhai
     > Start the question from a new line. <br>
     > Eg. <br> &emsp;&ensp;#57 [issue] <br> &emsp;&ensp;problem_statement
-hey there how are you
+hey how are you
