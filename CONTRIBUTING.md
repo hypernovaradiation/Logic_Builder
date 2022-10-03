@@ -50,7 +50,7 @@ Commit the changes and push them in the main repository. <b>
     > Add the questions in the correct difficulty level folder. <br>
     > Add the question at the end of the file. <br>
     > Enter the correct serial number and put 3 '#' symbols in front of it. <br>
-    > Add the [issue] tag after the serial number. <br>
+kya hua bhai
     > Start the question from a new line. <br>
     > Eg. <br> &emsp;&ensp;#57 [issue] <br> &emsp;&ensp;problem_statement
-hey there how are you
+hey how are you
