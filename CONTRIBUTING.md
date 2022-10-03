@@ -53,5 +53,4 @@ Commit the changes and push them in the main repository. <b>
     > Add the [issue] tag after the serial number. <br>
     > Start the question from a new line. <br>
     > Eg. <br> &emsp;&ensp;#57 [issue] <br> &emsp;&ensp;problem_statement
-- Update or improve `README.md` file
-- Fix typos and grammatical mistakes in any file inside the repository.
+hey there how are you
