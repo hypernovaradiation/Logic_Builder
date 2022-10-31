@@ -36,7 +36,7 @@ See [`CONTRIBUTING.md`](/CONTRIBUTING.md) for ways to get started.
 
 No matter how small or big of a contribution you are making, just make a contribution and it will be appreciated.
 
------
+---
 
 ### Other Repositories
 
